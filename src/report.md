@@ -243,7 +243,7 @@ Cоответственно, echo reply на ws1 остался заблокир
 Для этого в Virtual Box меняем настройки сети у машин с NAT на NAT Network, так виртуальные машины могут общаться между собой и будут иметь выход в интернет
 
 ###### ping ws22 с ws21:
-![Проверка соединения ws22 и ws21](screenshots/ping_ws22_ws21.png)
+![Проверка соединения ws22 и ws21](screenshots/ping_ws22_from_ws21.png)
 
 ###### ping r1 с ws11:
 ![Проверка соединения r1 и ws11](screenshots/ping_r1_from_ws11.png)
