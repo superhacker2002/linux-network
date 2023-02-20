@@ -241,4 +241,4 @@ Cоответственно, echo reply на ws1 остался заблокир
 ![Проверка соединения ws22 и ws21](screenshots/ping_ws22_ws21.png)
 
 ###### ping r1 с ws11:
-![Проверка соединения r1 и ws11](screenshots/ping_r1_ws11.png)
+![Проверка соединения r1 и ws11](screenshots/ping_r1_from_ws11.png)
