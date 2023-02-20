@@ -225,16 +225,16 @@ Cоответственно, echo reply на ws1 остался заблокир
 ![Проверка статического ip](screenshots/check_ip_ws11.png)
 
 ###### ws21:
-![Проверка статического ip](screenshots/check_ip_ws11.png)
+![Проверка статического ip](screenshots/check_ip_ws21.png)
 
 ###### ws22:
-![Проверка статического ip](screenshots/check_ip_ws11.png)
+![Проверка статического ip](screenshots/check_ip_ws22.png)
 
 ###### r1:
-![Проверка статического ip](screenshots/check_ip_ws11.png)
+![Проверка статического ip](screenshots/check_ip_r1.png)
 
 ###### r2:
-![Проверка статического ip](screenshots/check_ip_ws11.png)
+![Проверка статического ip](screenshots/check_ip_r2.png)
 
 ##### Также пропинговать ws22 с ws21. Аналогично пропинговать r1 с ws11 (для этого в Vb меняем настройки сети у машин с NAT на NAT Network, так виртуальные машины могут общаться между собой)
 ###### ping ws22 с ws21:
