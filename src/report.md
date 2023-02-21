@@ -257,4 +257,12 @@ Cоответственно, echo reply на ws1 остался заблокир
 ![Включение переадресации на r1](screenshots/ip_forward_r1.png)
 
 ###### r2:
-![Включение переадресации на r1](screenshots/ip_forward_r2.png)
+![Включение переадресации на r2](screenshots/ip_forward_r2.png)
+
+##### Для включения переадресации IP на постоянной основе, открываем файл _/etc/sysctl.conf_ и раскомменчиваем строку `net.ipv4.ip_forward = 1` на
+
+###### r1:
+![Включение переадресации на постоянной основе на r1](screenshots/saved_ip_forward_r1.png)
+
+###### r2:
+![Включение переадресации на постоянной основе на r2](screenshots/saved_ip_forward_r2.png)
