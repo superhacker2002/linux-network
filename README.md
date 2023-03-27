@@ -1,3 +1,3 @@
 # Linux Network
 
-Report with task solutionsinux on Linux networks configuration on virtual machines.
+Report with solutions to tasks on Linux networks configuration on virtual machines.
